@@ -8,17 +8,17 @@
 ---
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [System Requirements](#system-requirements)
-- [Installation](#installation)
+- [Overview](#-overview)
+- [Features](#-features)
+- [System Requirements](#-system-requirements)
+- [Installation](#-installation)
 - [Email Client Setup](#email-client-setup)
-- [Usage](#usage)
-- [Search Platforms](#search-platforms)
-- [File Management](#file-management)
-- [Troubleshooting](#troubleshooting)
-- [Technical Details](#technical-details)
-- [Support](#support)
+- [Usage](#-usage)
+- [Search Platforms](#-search-platforms)
+- [File Management](#-file-management)
+- [Troubleshooting](#-troubleshooting)
+- [Technical Details](#-technical-details)
+- [Support](#-support)
 
 ---
 
