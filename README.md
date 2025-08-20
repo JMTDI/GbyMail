@@ -331,10 +331,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 - 🐛 **Issues**: [GitHub Issues](https://github.com/JMTDI/GbyMail/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/JMTDI/GbyMail/discussions)
-- 📧 **Email**: support@gbymail.com
-- 🌐 **Website**: [gbymail.com](https://gbymail.com)
-- 📠 **iBYFAX Support**: [ibyfax-help@gbymail.com](mailto:ibyfax-help@gbymail.com)
-- 🔍 **Search Support**: [search-help@gbymail.com](mailto:search-help@gbymail.com)
 
 ---
 
