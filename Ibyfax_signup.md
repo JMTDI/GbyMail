@@ -1,4 +1,4 @@
-# iByFax Signup Form
+# iByFax Signup
 
 Welcome to **GbyMail**!  
 To sign up for our service using iByFax, simply complete the form below and email it to: **autosignup@ibyfax.com**
