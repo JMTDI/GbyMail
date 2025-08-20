@@ -205,39 +205,6 @@ graph TB
     style I fill:#9C27B0
 ```
 
-## 🔧 iBYFAX Search Configuration
-
-### Search Settings
-```json
-{
-  "ibyfaxSearch": {
-    "enabled": true,
-    "networkSearch": true,
-    "localIndexing": true,
-    "aiRecognition": true,
-    "autoTagging": true,
-    "searchHistory": true,
-    "maxResults": 100,
-    "searchTimeout": 30000,
-    "indexPath": "%LOCALAPPDATA%\\GbyMail\\SearchIndex",
-    "cachePath": "%LOCALAPPDATA%\\GbyMail\\SearchCache"
-  }
-}
-```
-
-### Search Index Configuration
-```reg
-[HKEY_CURRENT_USER\SOFTWARE\JMTDI\GbyMail\Search]
-"IndexEnabled"="true"
-"NetworkSearchEnabled"="true"
-"AIRecognitionEnabled"="true"
-"SearchHistoryEnabled"="true"
-"AutoIndexNewDocuments"="true"
-"IndexPath"="%LOCALAPPDATA%\\GbyMail\\SearchIndex"
-"MaxIndexSize"=dword:00100000
-"SearchApiEndpoint"="https://api.ibyfax.com/search"
-```
-
 ## 🚨 Troubleshooting
 
 ### Common Setup Issues
