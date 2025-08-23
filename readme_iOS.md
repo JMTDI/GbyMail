@@ -92,7 +92,7 @@ Sideloadly is another user-friendly sideloading tool (Windows & macOS).
 - Visit [sideloadly.io](https://sideloadly.io) and install Sideloadly for your operating system.
 
 **2. Download the GbyMail .ipa**
-- Download the latest [GbyMail.ipa](link-to-your-ipa) from the Releases section.
+- Download the latest [GbyMail_2.3.0.ipa](https://github.com/JMTDI/GbyMail/releases/latest/download//GbyMail_2.3.0.ipa) from the Releases section.
 
 **3. Sideload the App**
 - Open Sideloadly, connect your device, and drag the .ipa into the app.
