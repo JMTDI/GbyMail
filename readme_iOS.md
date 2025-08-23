@@ -73,7 +73,7 @@ AltStore is a popular and free sideloading solution for iOS apps.
 - Trust the profile associated with your Apple ID.
 
 **4. Download the GbyMail .ipa**
-- Download the latest [GbyMail.ipa](https://github.com/JMTDI/GbyMail/releases/latest/download//GbyMail_2.3.0.ipa) from the Releases section or build one with Xcode.
+- Download the latest [GbyMail_2.3.0.ipa](https://github.com/JMTDI/GbyMail/releases/latest/download//GbyMail_2.3.0.ipa) from the Releases section or build one with Xcode.
 
 **5. Install GbyMail via AltStore**
 - Open AltStore on your device.
